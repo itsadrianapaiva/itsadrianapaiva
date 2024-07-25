@@ -1,4 +1,3 @@
-
 <p>👋 Hi, I’m Adriana.
    I'm a driven, self-taught Data Analyst looking to make a name in the industry.
 </p>
