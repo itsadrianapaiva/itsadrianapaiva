@@ -8,7 +8,7 @@
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
  <p> Skilled in SQL, Python, Tableau, Excel, HTML, CSS and JavaScript. </p>
- <p> Currently improving my Python skills and planning to learn R and AWS next. </p>
+ <p> Currently improving my Python skills and planning to dive into Big Data tecnologies next. </p>
 <br>
 <b>😄What You Get:</b>
 <br>
