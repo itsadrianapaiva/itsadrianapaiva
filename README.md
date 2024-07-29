@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Adriana.
-   I'm a driven, self-taught Data Analyst looking to make a name in the industry.
+   I'm a passionate Data Analyst looking to make a name in the industry.
 </p>
 <br>
 <b>⚡What I Bring:</b>
