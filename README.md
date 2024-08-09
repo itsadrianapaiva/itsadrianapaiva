@@ -1,18 +1,14 @@
 <p>👋 Hi, I’m Adriana.
-   I'm a passionate Data Analyst looking to make a name in the industry.
+   I'm a passionate programmer looking to make a name in the industry.
 </p>
 <br>
-<b>⚡What I Bring:</b>
+<b>⚡About me:</b>
 <br>
- <p> Practical experience in data analysis with a love for uncovering insights. </p>
+ <p> Practical experience in SQL, Python, Tableau, Excel, HTML, CSS and JavaScript with a love for coding. </p>
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
- <p> Skilled in SQL, Python, Tableau, Excel, HTML, CSS and JavaScript. </p>
- <p> Currently improving my Python skills and planning to dive into Big Data tecnologies next. </p>
+ <p> Currently improving my Python and JavaScript skills and planning to dive into Cloud Platforms later. </p>
 <br>
-<b>😄What You Get:</b>
-<br>
- <p> A track record of using data insights to boost business success.</p>
 <br>
 <b>🎈Fun fact about me: </b>
 <p>I'm obsessed with korean dramas and I'm a gamer at heart.</p>
