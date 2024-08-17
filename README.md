@@ -4,7 +4,7 @@
 <br>
 <b>⚡About me:</b>
 <br>
- <p> Practical experience in SQL, Python, Tableau, Excel, HTML, CSS and JavaScript with a passion for coding. </p>
+ <p> Practical experience in HTML, CSS and JavaScript, Python and SQL with a passion for coding. </p>
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
  <p> Currently improving my Python and JavaScript skills and planning to dive into Cloud Platforms later. </p>
