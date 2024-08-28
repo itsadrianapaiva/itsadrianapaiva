@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Adriana.
-   Tech-Savvy Marketer Turning Developer. 
+   Tech-Savvy Marketer Turned Developer. 
 </p>
 <br>
 <b>⚡About me:</b>
@@ -7,7 +7,7 @@
  <p> Practical experience in HTML, CSS and JavaScript, Python and SQL with a passion for coding. </p>
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
- <p> Currently improving my Python and JavaScript skills and planning to dive into Cloud Platforms later. </p>
+ <p> Currently improving my Python and JavaScript skills and planning to dive deeper into Cloud Platforms later. </p>
 <br>
 <br>
 <b>🎈Fun fact about me: </b>
