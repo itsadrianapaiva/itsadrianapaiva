@@ -9,7 +9,6 @@
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
  <p> Currently improving my Typescript skills and planning to dive deeper into Cloud Platforms later. </p>
 <br>
-<br>
 <b>🎈Fun fact about me: </b>
 <p>I'm obsessed with k-dramas and I'm a gamer at heart.</p>
 <br>
