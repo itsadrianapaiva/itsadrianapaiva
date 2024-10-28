@@ -4,7 +4,7 @@
 <br>
 <b>⚡About me:</b>
 <br>
- <p> Practical experience in JavaScript, Typescript, NodeJS and SQL with a passion for coding. </p>
+ <p> undoubtedly good in JavaScript, Typescript, NodeJS and SQL with a passion for problem-solving. </p>
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
  <p> Currently improving my Typescript skills and planning to dive deeper into Cloud Platforms later. </p>
