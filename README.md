@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Adriana.
-   Tech-Savvy Marketer Turned Developer. 
+   <br>I build exceptional user-centered applications.  
 </p>
 <br>
 <b>⚡About me:</b>
