@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Adriana.
    <br>I build exceptional user-centered applications. 
-   Checkout my portfolio website (https://itsadrianapaiva.com/).
+   Check out my portfolio website https://itsadrianapaiva.com/.
 </p>
 <br>
 <b>⚡About me:</b>
