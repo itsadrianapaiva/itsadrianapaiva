@@ -13,6 +13,6 @@
 <b>🎈Fun fact about me: </b>
 <p>I'm obsessed with k-dramas and I'm a gamer at heart.</p>
 <br>
-<p>✨ If you like what you see, don't hesitate on reaching out to adrianapaivausa@icloud.com. I've been working hard to update this profile with my latest projects. ✨</p>
+<p>✨ If you like what you see, don't hesitate on reaching out to itsadrianapaiva@gmail.com. I've been working hard to update this profile with my latest projects. ✨</p>
 
 
