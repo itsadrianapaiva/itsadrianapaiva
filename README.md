@@ -1,11 +1,11 @@
 <p>👋 Hi, I’m Adriana.
-   <br>I build exceptional user-centered applications. 
+   <br>I build exceptional systems using MERN stack. 
    Check out my portfolio website https://itsadrianapaiva.com/.
 </p>
 <br>
 <b>⚡About me:</b>
 <br>
- <p> Undoubtedly good at JavaScript, Typescript, ReactJS and NodeJS with a passion for problem-solving. </p>
+ <p> Undoubtedly good at JavaScript, ReactJS and NodeJS with a passion for problem-solving. </p>
  <p> Great at managing my time and juggling multiple tasks. </p>
  <p> Love to learn new things and I'm seriously committed to improve my stack.</p>
  <p> Currently improving my Typescript skills and AI knowledge. </p>
